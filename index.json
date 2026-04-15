@@ -1,0 +1,17 @@
+{
+  "name": "droid-mission-framework",
+  "version": "1.0.0",
+  "description": "Universal multi-agent software development framework derived from Droid's Mission System. Works with any LLM.",
+  "author": "",
+  "license": "MIT",
+  "entry": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "prompts/orchestrator.md",
+    "prompts/worker-base.md",
+    "prompts/scrutiny-validator.md",
+    "prompts/user-testing-validator.md",
+    "prompts/worker-design.md",
+    "examples/frontend-worker.md"
+  ]
+}
