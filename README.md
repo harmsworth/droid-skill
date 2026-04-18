@@ -9,6 +9,7 @@ This is a monorepo-style skill package. It currently contains one main skill:
 | Skill | Path | Description |
 |-------|------|-------------|
 | **droid-skill** | [`skills/droid-skill/`](skills/droid-skill/) | The complete mission framework: planning, worker execution, code review, user testing, and worker design. |
+| **videocut** | [`skills/videocut/`](skills/videocut/) | 口播视频智能剪辑。自动识别口误/重复/静音/卡顿，生成审核页面，一键 FFmpeg 剪辑导出。跨平台支持 macOS/Linux/WSL2。 |
 
 ## Installation
 
