@@ -1,5 +1,8 @@
 # harmsworth/droid-skill
 
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![简体中文](https://img.shields.io/badge/lang-简体中文-red.svg)](README.zh-CN.md)
+
 适用于 **Droid Mission Framework** 的多技能仓库——一个通用、与工具无关的多 Agent 软件开发系统。
 
 ## 仓库内容
@@ -9,6 +12,7 @@
 | 技能 | 路径 | 说明 |
 |------|------|-------------|
 | **droid-skill** | [`skills/droid-skill/`](skills/droid-skill/) | 完整的多 Agent 任务框架：规划里程碑、Worker 执行、代码审查、用户测试验证与 Worker 设计。 |
+| **videocut** | [`skills/videocut/`](skills/videocut/) | 智能口播视频剪辑 Agent：自动识别口误/重复/静音/卡顿，生成审核页面，一键 FFmpeg 剪辑导出。跨平台支持 macOS/Linux/WSL2。 |
 
 ## 安装
 

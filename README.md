@@ -1,5 +1,8 @@
 # harmsworth/droid-skill
 
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![简体中文](https://img.shields.io/badge/lang-简体中文-red.svg)](README.zh-CN.md)
+
 A multi-skill repository for the **Droid Mission Framework** — a universal, tool-agnostic, multi-agent software development system.
 
 ## What's inside?
